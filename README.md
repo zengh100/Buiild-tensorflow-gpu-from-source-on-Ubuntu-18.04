@@ -1,4 +1,4 @@
-Build Tensorflow (GPU) R1.14 from source on Ubuntu
+Build Tensorflow (GPU) R1.14 from source on Ubuntu (This file is converted from docx using Pandoc)
 
 Computer specs
 
